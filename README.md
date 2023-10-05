@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moin Moin 👋🏻
 
 <!--
 **Paula-Krug/Paula-Krug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
